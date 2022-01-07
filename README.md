@@ -12,3 +12,8 @@
 
 
 Now you will be able to edit the notebook, explore it at your own pace and try to code the questions being asked in the Assignment. You will be asked to submit the notebook and the deadline will be released soon. Don't worry if you are not able to crack some questions, we will be having a brief discussion on the Assignment in the next workshop. Whereas for queries you can definitely contact any of the Coordinators.   
+
+
+
+## References
+* [Exclusive content for new-ones](Exclusive.md)
