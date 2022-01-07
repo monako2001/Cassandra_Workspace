@@ -1,4 +1,4 @@
-<h1 align="center">Content Exclusive for New-Ones</h1>
+<h1 align="center">Exclusive Content</h1>
 
 
 
