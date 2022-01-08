@@ -17,3 +17,49 @@ Now you will be able to edit the notebook, explore it at your own pace and try t
 
 ## References
 * [Exclusive content for new-ones](Exclusive.md)
+
+
+## **Coordinators**
+
+<table>
+   <td align="center">
+      <a href="https://github.com/monako2001">
+         <img src="https://avatars2.githubusercontent.com/u/56964886?s=400&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Mainak Samanta</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/Akshatsood2249">
+         <img src="https://avatars3.githubusercontent.com/u/68052998?s=400&u=d83d34a2596dc22bef460e3545e76469d2c72ad9&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Akshat Sood</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/Amshra267">
+         <img src="https://avatars1.githubusercontent.com/u/60649720?s=460&u=9ea334300de5e3e7586af294904f4f76c24f5424&v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Aman Mishra</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/ASPS002">
+         <img src="https://avatars.githubusercontent.com/u/79200004?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Ujjwal Srivastava</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+</table>
