@@ -5,9 +5,10 @@
 We know that those who encounter data science terminology for the first time technically, will face a situation of overwhelming stuffs. It happened with us as well.</br>
 So, we the Caasandra Coordinators will try to treat your wounds :slightly_smiling_face:. We will start in the same process in wich you encounter different terminologies when anyone starts their journey in data science. 
 
-<span style="color:red">**This is an actively updating file so check it out regularly,</br>
-we will inform after updation.**</span>
-
+```diff
+- This is an actively updating file so check it out regularly,
+- we will inform after updation.
+```
 **Some useful sites and blogs to follow**
 
 Blogs
@@ -64,5 +65,10 @@ For learning numpy -
 For fun solve one good simple previous assignment **(Credits-Robotics Club IIT BHU)** - [assignment link](assets/assignment_robo.pdf)
 
 
-<span style="color:red">**Most of the above thing you will forget and it is natural for human brain, no one expect that you will memorize everything, just one thing is important that you understand which thing to apply when and then google search accordingly.**</span>
+```diff
+- Most of the above thing you will forget, it is natural for human brain,
+- no one expect that you will memorize everything, 
+- just one thing is important that you understand which thing to apply when
+- and then google search accordingly.
+```
 
