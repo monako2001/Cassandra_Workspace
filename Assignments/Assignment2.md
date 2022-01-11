@@ -98,7 +98,7 @@ How To Start:-
 
 Create a Zip Consisting
  - image of output from first cell
- - Loss/Cost Curve(Take reference from above linear regression implemtation).
+ - Loss/Cost Curve(Take reference from above linear regression implementation).
  - Notebok Containing your final code. In the last cell of notebook, comment the number of iterations your code took for convergence, the learning rate you used and the `mu` and `sigma` your code output.
 
 **Deadline will be informed later, just work patiently and enjoy this task, we will provide enough time so don't worry about time.** 
