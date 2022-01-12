@@ -44,8 +44,8 @@ Here `m` and `b` are the two parameters which need to be determined for finding 
 Most important is to calculate loss( **Mean Squared Error(MSE)** in case of Regression) and update the equation for Gradient descent.
 
 <p align="center">
-<img width = 200 height = 200 src="../assets/loss_lin.png"/>
-<img width = 200 height = 200 src="../assets/update_lin.png"/></br>
+<img width = 400 height = 200 src="../assets/loss_lin.png"/>
+<img width = 400 height = 200 src="../assets/update_lin.png"/></br>
 Mean Squared error Loss(Left) and Update equation(Right) 
 </p>
 
