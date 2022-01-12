@@ -1,21 +1,21 @@
-<h1 align="center">Exclusive Content</h1>
+<h1 align="center">Exclusive Content for New Ones</h1>
 
 
 
-We know that those who encounter data science terminology for the first time technically, will face a situation of overwhelming stuffs. It happened with us as well.</br>
-So, we the Caasandra Coordinators will try to treat your wounds :slightly_smiling_face:. We will start in the same process in wich you encounter different terminologies when anyone starts their journey in data science. 
+We are well aware that those who encounter data science terminology for the first time technically are bound to face a situation of overwhelming stuffs. It happened with us as well.</br>
+So, we the Caasandra Coordinators will try to treat your wounds :slightly_smiling_face:. We will initiate the same process in wich you should come across different terminologies when anyone begins their journey in the field of Data Science. 
 
 ```diff
 - This is an actively updating file so check it out regularly,
-- we will inform after updation.
+- we will inform after each update.
 ```
-**Some useful sites and blogs to follow**
+**Some Useful Sites and Blogs to Follow**
 
 Blogs
 
 - [MachineLearningMastery](https://machinelearningmastery.com/)  ✨
-- [towardsDataScience](https://towardsdatascience.com/) ✨
-- [kdnuggets](https://www.kdnuggets.com/)
+- [TowardsDataScience](https://towardsdatascience.com/) ✨
+- [KDNuggets](https://www.kdnuggets.com/)
 - [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/)
 
 Podcasts
@@ -31,30 +31,29 @@ Podcasts
 
 ### 1. Data Science Languages
 
-Most of us heard that C++, C are very fast languages and used in software developments, In data science speed matters but testing new algorithms fastly matters most, and python and R libraries have an extra edge over C++ due to it's simplicity for fast prototyping hence, 
+Most of us have been introduced to programming languages like C/C++, Java as Fast Languages and used in field of Software Development yet in Data Science speed matters but testing new Algorithms fastly matters the most. Therefore Python and R libraries have an extra edge over C++ due to it's simplicity for fast prototyping hence, 
 
 <p align = "center">
 <img width = 600 height =300 src = "assets/c.jpeg"/>
 </p>
 
-we will stick with python for testing new algorithms that we need to apply in data science field or specially in this event.
+we will stick with Python for testing new algorithms that we need to apply in Data Science field or specially in this event.
 
-For Python Basics [Awesome lecture series by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)(**first few videos are sufficient for grasping python, later things u will learn while doing**)
+For Python Basics [Awesome Lecture Series by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)(**first few videos are sufficient for grasping python, later things u will learn while doing**)
 
 ### 2. Data Science Tools
 
-IN each stage of cycle a person who is learning data science has to encounter a number of libraries like - 
+While exploring the world of Data Science, a person comes across numerous libraries like - 
 
 <p align = "center">
 <img width = 800 height =300 src = "assets/ds.jpeg"/>
 </p>
 
-It is difficult to go through each and every but we will try to cover most of them in a very detailed manner.
-
+It is difficult to go through each and every library but we will try to cover most of them in a very detailed manner.
 
 #### 2.1 Numpy
 
-This is perhaps the most beautiful and simple library, and contribute to a greater part in python's charm as it is nearly used by everyone who encountered python.
+This is perhaps the most beautiful and simple library, and contribute extensively in adding charm to Python language as it is nearly used by everyone.
 
 It covers all operations which we can imagine using a multidimensional array.
 
@@ -66,8 +65,8 @@ For fun solve one good simple previous assignment **(Credits-Robotics Club IIT B
 
 
 ```diff
-- Most of the above thing you will forget, it is natural for human brain,
-- no one expect that you will memorize everything, 
+- Most of the above studd you will tend to forget, it is a natural phenomenon,
+- no one expects that you will memorize everything, 
 - just one thing is important that you understand which thing to apply when
 - and then google search accordingly.
 ```
