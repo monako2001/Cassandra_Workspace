@@ -27,7 +27,7 @@ It is quite clear that Regression assumes a linear variation of data. For Ex-
 <p align="center">
 <img width = 500 height = 200 src="../assets/compare.png"/></br>
 </p>
-In Fig-(a) displays a good fit with linear Regression as the data distribution is almost linear, on the other hand in Fig-(b) showing a non linear data distribution, linear regression cannot perform well. These non linear data requires fitting complex models which you will learn later.</br>
+Fig-(a) displays a good fit with linear Regression as the data distribution is almost linear, on the other hand Fig-(b) shows a non linear data distribution, hence linear regression cannot perform well on it. These non linear data requires fitting complex models which you will learn later.</br>
 </br>
 
 **Equation**
@@ -39,13 +39,13 @@ Although Regression is applicable for any number of dimensions, here we are writ
 
 Here `m` and `b` are the two parameters which need to be determined for finding the optimal line for given data.
 
-**Loss and Update Eqn**
+**Loss and Update Equation**
 
 Most important is to calculate loss( **Mean Squared Error(MSE)** in case of Regression) and update the equation for Gradient descent.
 
 <p align="center">
-<img width = 300 height = 200 src="../assets/loss_lin.png"/>
-<img width = 300 height = 200 src="../assets/update_lin.png"/></br>
+<img width = 200 height = 200 src="../assets/loss_lin.png"/>
+<img width = 200 height = 200 src="../assets/update_lin.png"/></br>
 Mean Squared error Loss(Left) and Update equation(Right) 
 </p>
 
@@ -74,14 +74,14 @@ So those who aren't knowledgable about Gaussian(Normal) Distribution, below are 
 
 ### Importance of Normal distribution
 * [What is Normal Distribution and why it is important](https://medium.com/analytics-vidhya/the-normal-distribution-for-data-scientists-6de041a01cb9#:~:text=The%20normal%20distribution%20is%20a,in%20the%20data%20science%20curriculum.)
-* [Blog 2](https://towardsdatascience.com/the-powers-of-normal-distribution-4cbb06e4a955)
+* [The Powers of Normal Distribution](https://towardsdatascience.com/the-powers-of-normal-distribution-4cbb06e4a955)
 * [Why Data scienctists love Gaussian](https://towardsdatascience.com/why-data-scientists-love-gaussian-6e7a7b726859)
 
 So, If you went through above links you will encounter an equation something like
 
 <p align="center">
 <img width = 400 height = 300 src="../assets/formula_normal.png"/></br>
-it contains two parameters **mu** and **sigma**
+it contains two parameters <b>mu</b> and <b>sigma</b>
 </p>
 
 Hence, just like the equation of line `y=mx+b` which contains two parameters `m` and `b`, here are two parameters `mu` and `sigma`. Your task is find these two optimal parameters for the given noisy data. 
@@ -99,8 +99,8 @@ How To Start:-
 ### To Submit-
 
 Create a Zip Consisting
- - image of output from first cell
- - Loss/Cost Curve (Take reference from above linear regression implementation).
+ - Image of Output from first cell
+ - Loss Curve (Take reference from above linear regression implementation).
  - Notebok Containing your final code. In the last cell of notebook, comment the number of iterations your code took for convergence, the learning rate you used and the `mu` and `sigma` your code output.
 
 **Deadline will be informed later, just work patiently and enjoy this task, we will provide enough time so don't worry about time.** 
