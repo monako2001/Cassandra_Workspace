@@ -12,9 +12,9 @@
 ## Resources
 
 - [Python Playlist for Beginners](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) First 25 Videos are Sufficient
-- [Pandas Notebook](https://github.com/LearnDataSci/articles/blob/master/Python%20Pandas%20Tutorial%20A%20Complete%20Introduction%20for%20Beginners/notebook.ipynb) and [Youtube Playlist](https://www.youtube.com/watch?v=Iqjy9UqKKuo&list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+- [Pandas Notebook](https://github.com/LearnDataSci/articles/blob/master/Python%20Pandas%20Tutorial%20A%20Complete%20Introduction%20for%20Beginners/notebook.ipynb) and [Youtube Video](https://www.youtube.com/watch?v=RhEjmHeDNoA)
 
-### :star: [**Exclusive content for new-ones**](Exclusive.md)
+### :star: [**Exclusive Content for New Ones**](Exclusive.md)
 
 
 ## **Coordinators**
