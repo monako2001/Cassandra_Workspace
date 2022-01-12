@@ -1,8 +1,10 @@
-
+<!-- 
 <p align="center">
 <img width = 500 height = 400 src="../assets/assignment2_start.jpeg"/></br>
 <i>Glad to see you all</i>
-</p>
+</p> -->
+
+<h1 align="center">Assignment 2</h1>
 
 <p align="center">
 
