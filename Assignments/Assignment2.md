@@ -89,20 +89,20 @@ Hence, just like the equation of line `y=mx+b` which contains two parameters `m`
 How To Start:-
 
 - Create a copy of this [**JUPYTER NOTEBOOK**](https://colab.research.google.com/drive/1EoRNvI1FDWaoaiipwEpp8uWhxV3Nqs_G?usp=sharing).
-- Run the first cell which will tell you the optimal `mu` and `sigma` for the data. These values help you later to verify your code is correct or not.
-- Now take intutition from above implemetation of linear regression.
-- Use Same MSE (Mean Squared) loss.
-- Calculate Loss derivative w.r.t `mu` and `sigma` to find updated equation to perform gradient descent.
+- Run the first cell which will output optimal `mu` and `sigma` for the data. These values help you later to verify whether your code is correct or not.
+- Now take intutition from above implemetation of linear regression and use the same MSE(Mean Squared Error) loss.
+- Calculate loss derivative w.r.t `mu` and `sigma` to find updated equation to perform gradient descent.
 - Run Gradient Descent Until Optimization.(And as a sanity check, ensure that the parameter values you get after convergence is close to the optimal ones from first cell.)
 
 
 ### To Submit-
 
-Create a Zip Consisting
- - Image of Output from first cell
- - Loss Curve (Take reference from above linear regression implementation).
- - Notebok Containing your final code. In the last cell of notebook, comment the number of iterations your code took for convergence, the learning rate you used and the `mu` and `sigma` your code output.
+Create a zip file (<roll_no>_<name>.zip) comprising of the following : 
 
-**Deadline will be informed later, just work patiently and enjoy this task, we will provide enough time so don't worry about time.** 
+ - Image of Output from the First Cell
+ - Loss Curve (Take reference from above linear regression implementation).
+ - Notebok containing your final code. In the last cell of notebook, comment the number of iterations your code took for convergence, the learning rate you used , `mu` and `sigma` your code will output.
+
+**Deadline will be updated soon. We will inform a week before the deadline. Enjoy the task and keep coding :D** 
 
 
