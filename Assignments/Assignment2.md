@@ -8,7 +8,7 @@
 
 <p align="center">
 
-You all have gone through the below listed things in the 2nd Workshop
+You all have gone through the below listed things in the second workshop : 
  
 - Linear Regression
 - Logistic Regression
