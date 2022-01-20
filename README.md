@@ -31,8 +31,8 @@
       <br />
    </td>
    <td align="center">
-      <a href="https://github.com/akshatsood2024">
-         <img src="https://avatars.githubusercontent.com/u/91633748?s=400&u=d11eb888c5e7b72c72b1e7d9061245146ad65f7b&v=4" width="100px;" alt=""/>
+      <a href="https://github.com/akshatsood2025">
+         <img src="https://avatars.githubusercontent.com/u/98117481?v=4" width="100px;" alt=""/>
          <br />
          <sub>
             <b>Akshat Sood</b>
