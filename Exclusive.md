@@ -110,3 +110,26 @@ Rest is upto pratice as no article will give you the art of interpretation, you 
 
 #### 3.5 Sklearn:-
 Now comes one of the most important libraries from the point of view of model fitting and Feature Engineering. It contains different types of algorithms one can imagine for machine learning applications. Resources will be shared in next update of repo. :slightly_smiling_face:.
+
+<br/>
+<br/>
+
+### Some Key Concepts
+
+Here We will be sharing some of the terminologies/tools/tricks/methods details which will be needed somewhere in your data science process cycle along with above materials update.
+
+This is what we promised at the start i.e., exclusive content which cannot be easily compiled at one place and no one from our college provided such type of content before :upside_down_face:
+
+- [**```"No free lunch"(NFL) Theorem```**](https://towardsdatascience.com/what-no-free-lunch-really-means-in-machine-learning-85493215625d)
+- [**```Correlation```**](https://medium.com/fintechexplained/did-you-know-the-importance-of-finding-correlations-in-data-science-1fa3943debc2)(Open in incognito tab)
+- ```P-value```:-
+
+    - [Introduction and Meaning](https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8#:~:text=In%20statistical%20hypothesis%20testing%2C%20the,or%20equal%20to%20the%20actual)
+    - [How to use it in Data Science](https://www.machinelearningplus.com/statistics/what-is-p-value/)
+    - Features Selection using p-value - [here](https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf) and [here](https://medium.com/@abhinav.mahapatra10/ml-basics-feature-selection-part-2-3b9b3e71c14a)
+    - [Drawbacks of p-value](https://stats.stackexchange.com/questions/291210/is-it-wrong-to-choose-features-based-on-p-value/291239#291239)
+
+- [**```Q-Q plot```**](https://medium.com/@premal.matalia/q-q-plot-in-linear-regression-explained-ab040567d86f#:~:text=Quantile%2DQuantile%20(Q%2DQ)%20plot,Normal%2C%20exponential%20or%20Uniform%20distribution.)- for checking correlation between different features
+- [**```Box-Cox Transformation```**](https://www.geeksforgeeks.org/box-cox-transformation-using-python/#:~:text=provide%20this%20function.-,Implementation,normal%20distribution%20to%20normal%20distribution.)- An important scaling type for outlier
+
+More will coming soon.........
