@@ -8,7 +8,7 @@ With great pleasure, we introduce you to <b>Assignment 3</b> in where you will b
 
 <b> Dataset Description </b>
 
-Dataset comprises of <b>12 columns</b> of which the first <b>11</b> are the features while the last one <b>Target</b> is contains two values 0 and 1. <b>0</b> represents that the Person is <b>not</b> looking for Job change while <b>1</b> indicates that Person is lookinf for a Job Change. 
+Dataset comprises of <b>12 columns</b> of which the first <b>11</b> are the features while the last one <b>Target</b> is contains two values 0 and 1. <b>0</b> represents that the Person is <b>not</b> looking for Job change while <b>1</b> indicates that Person is looking for a Job Change. 
 
 <table>
     <tr>
