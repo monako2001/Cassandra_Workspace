@@ -4,6 +4,8 @@
 
  - [Workshop-1](Workshop-1)
  - [Workshop-2](Workshop-2)
+ - [Workshop-3](Workshop-3)
+ - [Workshop-4](Workshop-4)
 
 ## Assignments
 - [Assignment-1](Assignments/Assignment1.md)
