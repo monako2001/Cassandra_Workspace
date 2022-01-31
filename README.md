@@ -8,7 +8,7 @@
 ## Assignments
 - [Assignment-1](Assignments/Assignment1.md)
 - [Assignment-2](Assignments/Assignment2.md)
-- [Assigbment-3](Assignments/Assignment 3.md)
+- [Assignment-3](Assignments/Assignment3.md)
 
 ## Resources
 
