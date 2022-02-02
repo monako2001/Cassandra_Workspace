@@ -69,7 +69,7 @@ Dataset comprises of <b>12 columns</b> of which the first <b>11</b> are the feat
 
 <ol>
     <li>Create a <a href="https://colab.research.google.com">Google Colab</a> or Jupyter Notebook (<code>name_rollno.ipynb</code>)</li>
-    <li>Download the given <a href="https://drive.google.com/file/d/1OJj1bEREpjtmpXKkTPmxp-zR_zxjR9hd/view?usp=sharing">Dataset</a></li>
+    <li>Download the given <a href="https://github.com/monako2001/Cassandra_Workspace/blob/main/assets/Assignment%203%20Dataset.csv">Dataset</a></li>
     <li>Apply Data Cleaning and Processing Techniques</li>
     <li>Download your Notebook and submit it in the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7BzQIqk2Hc5GriVX9TOkhxARS2UVDH-UcBUDzOvM5pcaZtw/viewform">Google Form</a></li>
 </ol>
