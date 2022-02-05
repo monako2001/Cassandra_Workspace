@@ -109,9 +109,17 @@ As a data scientist or an individual who want to excel in data science, you must
 Rest is upto pratice as no article will give you the art of interpretation, you will need to develop it slowly, code is very little and almost same with few changes, you just need to apply your brain.
 
 #### 3.5 Sklearn:-
-Now comes one of the most important libraries from the point of view of model fitting and Feature Engineering. It contains different types of algorithms one can imagine for machine learning applications. Resources will be shared in next update of repo. :slightly_smiling_face:.
+Now comes one of the most important libraries from the point of view of model fitting and Feature Engineering. It contains different types of algorithms one can imagine for machine learning applications.
 
-<br/>
+Resources :-
+ - [Few important features of sklearn](https://www.analyticsvidhya.com/blog/2021/07/15-most-important-features-of-scikit-learn/)
+ - [Official sklearn tutorials](https://scikit-learn.org/stable/tutorial/)
+ - [Scikit learn beginner blog](https://towardsdatascience.com/a-beginners-guide-to-scikit-learn-14b7e51d71a4)
+ - [An Example of model building process in scikit learn](https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/)
+ - [Sklearn scaling blog with comparison](https://towardsdatascience.com/feature-scaling-effect-of-different-scikit-learn-scalers-deep-dive-8dec775d4946)(Open in incognito tab) 
+  - [Sklearn Cross-Validation blog](https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12)(open in incognito tab)
+  - [sklearn hyperparameter tuning blog](https://towardsdatascience.com/faster-hyperparameter-tuning-with-scikit-learn-71aa76d06f12)
+
 <br/>
 
 ### Some Key Concepts
@@ -131,5 +139,5 @@ This is what we promised at the start i.e., exclusive content which cannot be ea
 
 - [**```Q-Q plot```**](https://medium.com/@premal.matalia/q-q-plot-in-linear-regression-explained-ab040567d86f#:~:text=Quantile%2DQuantile%20(Q%2DQ)%20plot,Normal%2C%20exponential%20or%20Uniform%20distribution.)- for checking correlation between different features
 - [**```Box-Cox Transformation```**](https://www.geeksforgeeks.org/box-cox-transformation-using-python/#:~:text=provide%20this%20function.-,Implementation,normal%20distribution%20to%20normal%20distribution.)- An important scaling type for outlier
+- [**```MAGIC FEATURES - (Credits - Chris Deotte, kaggle Grandmaster)```**](https://www.kaggle.com/cdeotte/xgb-fraud-with-magic-0-9600)(ONe of the best notebook of kaggle and one of the best competition hosted on kaggle.) 
 
-More will coming soon.........
