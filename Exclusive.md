@@ -120,11 +120,26 @@ Resources :-
   - [Sklearn Cross-Validation blog](https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12)(open in incognito tab)
   - [sklearn hyperparameter tuning blog](https://towardsdatascience.com/faster-hyperparameter-tuning-with-scikit-learn-71aa76d06f12)
 
-<br/>
+#### 3.6 Optuna Hyperparameter Optimization
+Optuna is a hyperparameter optimization tool which is based on the principal of [Bayesian Inference](https://en.wikipedia.org/wiki/Bayesian_inference#:~:text=Bayesian%20inference%20is%20a%20method,and%20especially%20in%20mathematical%20statistics.), due to this technique it is way more faster than Sklearn tuners and can run with gpu as well. 
 
-### Some Key Concepts
+Resource :- 
+  * [optuna summary blog](https://towardsdatascience.com/how-to-make-your-model-awesome-with-optuna-b56d490368af)
 
-Here We will be sharing some of the terminologies/tools/tricks/methods details which will be needed somewhere in your data science process cycle along with above materials update.
+  I am sharing only one resource because that was enough for us at our time, but if you want to delve deeper, then search on google and mostly on kaggle platform that includes a lot of examples about optuna.
+
+#### 3.7 RAPIDS
+**NVIDIA** Released ```God of Speed``` for Data Science which is RAPIDS library in python.
+
+Resource :-
+ * [Summary](https://medium.com/future-vision/what-is-rapids-ai-7e552d80a1d2)(Open in incognito tab)
+
+For more in-depth knowledge, follow same procedure as optuna.  
+</br>
+
+<h3 align="center">Some Key Concepts - (Advanced)</h3>
+
+Here we will be sharing some of the terminologies/tools/tricks/methods details which will be needed somewhere in your data science process cycle along with above materials update.
 
 This is what we promised at the start i.e., exclusive content which cannot be easily compiled at one place and no one from our college provided such type of content before :upside_down_face:
 
@@ -139,5 +154,10 @@ This is what we promised at the start i.e., exclusive content which cannot be ea
 
 - [**```Q-Q plot```**](https://medium.com/@premal.matalia/q-q-plot-in-linear-regression-explained-ab040567d86f#:~:text=Quantile%2DQuantile%20(Q%2DQ)%20plot,Normal%2C%20exponential%20or%20Uniform%20distribution.)- for checking correlation between different features
 - [**```Box-Cox Transformation```**](https://www.geeksforgeeks.org/box-cox-transformation-using-python/#:~:text=provide%20this%20function.-,Implementation,normal%20distribution%20to%20normal%20distribution.)- An important scaling type for outlier
-- [**```MAGIC FEATURES - (Credits - Chris Deotte, kaggle Grandmaster)```**](https://www.kaggle.com/cdeotte/xgb-fraud-with-magic-0-9600)(ONe of the best notebook of kaggle and one of the best competition hosted on kaggle.) 
+- [**```MAGIC FEATURES - (Credits - Chris Deotte, kaggle Grandmaster)```**](https://www.kaggle.com/cdeotte/xgb-fraud-with-magic-0-9600)(One of the best notebook of kaggle and one of the best competition hosted on kaggle.) 
+- ```Ensembling```:-
+
+   - [What actually is ensembling? It's different types.](https://towardsdatascience.com/ensemble-models-5a62d4f4cb0c)
+   - [vecstack- A python library for automating stacking ensembles](https://towardsdatascience.com/automate-stacking-in-python-fc3e7834772e)
+
 
